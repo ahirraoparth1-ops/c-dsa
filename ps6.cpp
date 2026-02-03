@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//print the sum of n uisng paramaterized way
  void fun (int i,int sum){
     
     if(i<1){
